@@ -1,1 +1,40 @@
 
+header {
+    background-color: grey;
+  }
+  
+  header h1 {
+    margin: 0;
+    color: white;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-size:52px;
+    text-align: center; 
+    padding: 60px 0 20px 20px;
+  }
+
+header h3 {
+  text-align: center;
+  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+}
+
+p {
+font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+header h2 {
+  text-align: center;
+  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+}
+
+.align-center {
+  text-align: center;
+}
+
+ol {
+  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+}
+
+ul {
+  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+}
