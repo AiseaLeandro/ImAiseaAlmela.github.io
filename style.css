@@ -16,11 +16,13 @@ header {
 header h3, h2 {
   text-align: center;
   font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+	font-size: 35px;
 }
 
 p {
 font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
 text-align: center;
+	font-size: 23px;
 }
 
 
@@ -30,6 +32,7 @@ text-align: center;
 
 ol, ul {
   font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+	font-size: 23px;
 }
 
 div.container {
@@ -53,3 +56,12 @@ ul.myUL {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+a {
+	font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+	font-size: 23px;
+}
+a:link {color: blue;}
+a:visited {color: red;}
+a:hover {color: green;}
+a:active {color: pink;}
