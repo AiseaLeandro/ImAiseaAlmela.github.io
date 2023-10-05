@@ -39,3 +39,7 @@ ul.myUL {
   display: inline-block;
   text-align: left;
 }
+
+.full-width {
+	width: 100%;	
+}
