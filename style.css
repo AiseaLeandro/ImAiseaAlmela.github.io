@@ -48,7 +48,8 @@ ul.myUL {
 }
 
 
-img {
-	width: max;
-	margin: auto;
+.center-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
