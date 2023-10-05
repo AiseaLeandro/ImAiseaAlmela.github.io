@@ -1,4 +1,5 @@
 
+
 header {
     background-color: grey;
   }
@@ -12,7 +13,7 @@ header {
     padding: 60px 0 20px 20px;
   }
 
-header h3 {
+header h3, h2 {
   text-align: center;
   font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
 }
@@ -22,19 +23,19 @@ font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
 text-align: center;
 }
 
-header h2 {
-  text-align: center;
-  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
-}
 
 .align-center {
   text-align: center;
 }
 
-ol {
+ol, ul {
   font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
 }
 
-ul {
-  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+div.container {
+  text-align: center;
+}
+ul.myUL {
+  display: inline-block;
+  text-align: left;
 }
