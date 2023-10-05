@@ -43,3 +43,6 @@ ul.myUL {
   list-style-position: inside;
   
 }
+.full-width {
+	width: 100%;	
+}
